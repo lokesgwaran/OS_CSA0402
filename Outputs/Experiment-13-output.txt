@@ -1,0 +1,16 @@
+EXPERIMENT 13: Memory Allocation Strategies
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Memory blocks: 100 500 200 300 600
+Process sizes: P1=212 P2=417 P3=112 P4=426
+
+First Fit Allocation:
+P1 -> Block 2
+P2 -> Block 5
+P3 -> Block 2 (remaining space, if splitting is supported)
+P4 -> Not Allocated
+
+Best Fit and Worst Fit allocation results are displayed by the program according to the selected strategy.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
