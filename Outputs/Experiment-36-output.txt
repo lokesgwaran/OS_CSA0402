@@ -1,0 +1,10 @@
+EXPERIMENT 36: Linked File Allocation
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Enter file name: data.txt
+Allocated block chain:
+4 -> 9 -> 13 -> 18 -> NULL
+File allocated successfully.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
