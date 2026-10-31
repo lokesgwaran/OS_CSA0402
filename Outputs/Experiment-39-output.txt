@@ -1,0 +1,11 @@
+EXPERIMENT 39: C-SCAN Disk Scheduling
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Request queue: 98 183 37 122 14 124 65 67
+Initial head: 53
+Disk range: 0-199; direction: right
+Service order: 65 67 98 122 124 183 199 0 14 37
+Total head movement: 382 cylinders
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
