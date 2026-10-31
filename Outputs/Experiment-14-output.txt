@@ -1,0 +1,21 @@
+EXPERIMENT 14: Single Level Directory
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Single Level Directory
+1. Create file
+2. Search file
+3. Delete file
+4. Display files
+5. Exit
+
+Enter choice: 1
+Enter file name: notes.txt
+File created successfully.
+Enter choice: 4
+Files in directory:
+notes.txt
+Enter choice: 5
+Exiting...
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
