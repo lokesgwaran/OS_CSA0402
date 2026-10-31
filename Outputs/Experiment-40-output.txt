@@ -1,0 +1,14 @@
+EXPERIMENT 40: Linux File Access Permissions
+================================================
+SAMPLE TERMINAL OUTPUT
+
+File: sample.txt
+Owner permissions: read, write, execute (rwx)
+Group permissions: read, execute (r-x)
+Others permissions: read (r--)
+Permission string: -rwxr-xr--
+Octal permission: 754
+Command: chmod 754 sample.txt
+Permissions changed successfully.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
