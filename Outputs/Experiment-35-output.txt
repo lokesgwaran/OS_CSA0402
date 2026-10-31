@@ -1,0 +1,12 @@
+EXPERIMENT 35: Indexed File Allocation
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Enter file name: report.txt
+Enter index block: 5
+Enter number of data blocks: 4
+Data blocks: 9 16 21 22
+Index block 5 stores pointers to blocks 9, 16, 21, and 22.
+File allocated successfully.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
