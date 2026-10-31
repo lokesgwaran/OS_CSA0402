@@ -1,0 +1,10 @@
+EXPERIMENT 32: LRU Page Replacement
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Reference string: 7 0 1 2 0 3 0 4 2 3 0 3 2
+Number of frames: 3
+Page faults: 9
+Page hits: 4
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
