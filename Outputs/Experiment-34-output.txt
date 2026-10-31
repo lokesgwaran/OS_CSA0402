@@ -1,0 +1,12 @@
+EXPERIMENT 34: Contiguous File Allocation
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Enter file name: fileA
+Enter starting block: 10
+Enter file length: 4
+File name: fileA
+Allocated blocks: 10 11 12 13
+File allocated successfully.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
