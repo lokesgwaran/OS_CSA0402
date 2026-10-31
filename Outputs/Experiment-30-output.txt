@@ -1,0 +1,13 @@
+EXPERIMENT 30: Thread create join equal exit
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Main: Creating thread.
+Thread created successfully.
+Worker thread is running.
+pthread_equal(): IDs match.
+Worker thread returning value 100.
+pthread_join(): Thread joined successfully.
+Main thread completed.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
