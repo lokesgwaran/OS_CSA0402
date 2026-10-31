@@ -1,0 +1,11 @@
+EXPERIMENT 10: IPC using Message Queue
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Writer: Sending message to message queue
+Message sent: Hello from sender process!
+Reader: Receiving message from queue
+Message received: Hello from sender process!
+Message queue communication completed.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
