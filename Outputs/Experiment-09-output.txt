@@ -1,0 +1,12 @@
+EXPERIMENT 9: IPC using Shared Memory
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Parent process: Creating shared memory
+Child process: Reading from shared memory
+Message written: Hello from parent process!
+Message read: Hello from parent process!
+Shared memory detached successfully.
+Shared memory removed successfully.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
