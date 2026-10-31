@@ -1,0 +1,12 @@
+EXPERIMENT 28: Simulation of grep Command
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Enter file name: sample.txt
+Enter search string: OS
+Matching lines:
+Operating Systems manages computer resources.
+The OS controls process execution.
+Total matching lines: 2
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
