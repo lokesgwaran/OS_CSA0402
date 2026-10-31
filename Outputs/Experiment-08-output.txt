@@ -1,0 +1,19 @@
+EXPERIMENT 8: Round Robin Scheduling
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Number of processes: 3
+Burst times: P1=10, P2=5, P3=8
+Time quantum: 2
+
+Execution order:
+P1 P2 P3 P1 P2 P3 P1 P3 P1 P3 P1
+
+Process  BT  CT  TAT  WT
+P1       10  23  23   13
+P2        5  15  15   10
+P3        8  21  21   13
+Average Waiting Time: 12.00
+Average Turnaround Time: 19.67
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
