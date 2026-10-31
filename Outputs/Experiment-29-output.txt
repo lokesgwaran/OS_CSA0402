@@ -1,0 +1,13 @@
+EXPERIMENT 29: Classical Process Synchronization Problem
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Producer produced: 1
+Consumer consumed: 1
+Producer produced: 2
+Consumer consumed: 2
+Producer produced: 3
+Consumer consumed: 3
+Synchronization completed.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
