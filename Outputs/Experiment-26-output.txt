@@ -1,0 +1,13 @@
+EXPERIMENT 26: File Management Operations
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Create file: sample.txt
+File created successfully.
+Write operation: Hello Operating Systems
+Data written successfully.
+Read operation:
+Hello Operating Systems
+Delete operation: File deleted successfully.
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
