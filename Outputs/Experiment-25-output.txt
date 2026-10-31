@@ -1,0 +1,14 @@
+EXPERIMENT 25: UNIX I/O System Calls
+================================================
+SAMPLE TERMINAL OUTPUT
+
+File descriptor obtained using open().
+fcntl(): File status flags retrieved.
+lseek(): File position changed successfully.
+stat(): File information retrieved.
+opendir(): Directory opened successfully.
+readdir(): Directory entries:
+.  ..  program.c  data.txt
+Directory closed successfully.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
