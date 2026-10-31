@@ -1,0 +1,11 @@
+EXPERIMENT 11: Multithreading
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Main thread started.
+Thread 1: Hello from thread!
+Thread 1: Task completed.
+Main thread: All threads completed.
+
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
