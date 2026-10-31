@@ -1,0 +1,14 @@
+EXPERIMENT 22: Best Fit Memory Allocation
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Memory blocks: 100 500 200 300 600
+Processes: 212 417 112 426
+
+Process  Size  Block Allocated
+P1       212   4 (300)
+P2       417   2 (500)
+P3       112   3 (200)
+P4       426   5 (600)
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
