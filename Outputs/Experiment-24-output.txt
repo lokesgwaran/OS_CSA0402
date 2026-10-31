@@ -1,0 +1,10 @@
+EXPERIMENT 24: UNIX File Management System Calls
+================================================
+SAMPLE TERMINAL OUTPUT
+
+File created successfully using open().
+Data written successfully using write().
+File contents read using read(): Hello UNIX
+File closed successfully using close().
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
