@@ -1,0 +1,19 @@
+EXPERIMENT 6: Preemptive Priority Scheduling
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Processes: P1(AT=0,BT=7,Priority=3), P2(AT=2,BT=4,Priority=1), P3(AT=4,BT=2,Priority=2)
+(Lower number = higher priority)
+
+Gantt Chart:
+| P1 | P2 | P3 | P1 |
+0    2    6    8    13
+
+Process  AT  BT  Priority  CT  TAT  WT
+P1       0   7      3      13  13   6
+P2       2   4      1       6   4   0
+P3       4   2      2       8   4   2
+Average Waiting Time: 2.67
+Average Turnaround Time: 7.00
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
