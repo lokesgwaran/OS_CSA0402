@@ -1,0 +1,14 @@
+EXPERIMENT 27: Simulation of ls Command
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Enter directory: .
+Directory contents:
+file1.txt
+file2.txt
+program.c
+sample.txt
+subdir
+Total entries: 5
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
