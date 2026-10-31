@@ -1,0 +1,14 @@
+EXPERIMENT 19: Process Synchronization using Mutex
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Main: Creating worker threads
+Thread 1 entered critical section
+Thread 1 updated shared counter
+Thread 1 leaving critical section
+Thread 2 entered critical section
+Thread 2 updated shared counter
+Thread 2 leaving critical section
+Final counter value: 2
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
