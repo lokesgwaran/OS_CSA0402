@@ -1,0 +1,16 @@
+EXPERIMENT 12: Dining Philosophers
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Dining Philosophers Simulation
+Philosopher 1 is thinking
+Philosopher 2 is thinking
+Philosopher 3 is thinking
+Philosopher 4 is thinking
+Philosopher 5 is thinking
+Philosopher 1 picked up forks
+Philosopher 1 is eating
+Philosopher 1 put down forks
+Simulation completed.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
