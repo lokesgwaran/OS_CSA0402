@@ -1,0 +1,10 @@
+EXPERIMENT 37: FCFS Disk Scheduling
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Request queue: 98 183 37 122 14 124 65 67
+Initial head position: 53
+Head movement: 45 + 85 + 146 + 85 + 108 + 110 + 59 + 2
+Total head movement: 640 cylinders
+
+Note: Illustrative sample output; actual output may vary by input and implementation.
