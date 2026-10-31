@@ -1,0 +1,13 @@
+EXPERIMENT 18: Producer Consumer using Semaphores
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Producer produced item 1
+Consumer consumed item 1
+Producer produced item 2
+Consumer consumed item 2
+Producer produced item 3
+Consumer consumed item 3
+Producer-consumer execution completed.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
