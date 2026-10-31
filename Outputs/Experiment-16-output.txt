@@ -1,0 +1,14 @@
+EXPERIMENT 16: Random Access Employee File
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Employee record written successfully.
+Enter employee ID to search: 102
+
+Employee Details
+ID: 102
+Name: Ravi
+Salary: 35000.00
+Record retrieved successfully using random access.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
