@@ -1,0 +1,13 @@
+EXPERIMENT 20: Reader Writer using Semaphores
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Reader 1 is reading
+Reader 2 is reading
+Reader 1 finished reading
+Reader 2 finished reading
+Writer is writing
+Writer finished writing
+Reader-writer simulation completed.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
