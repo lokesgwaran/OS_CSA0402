@@ -1,0 +1,16 @@
+EXPERIMENT 15: Two Level Directory
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Two Level Directory Simulation
+Enter user name: student1
+File created: os.txt
+Enter user name: student2
+File created: lab.txt
+
+Directory listing:
+student1: os.txt
+student2: lab.txt
+Search file os.txt in student1: File found.
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
