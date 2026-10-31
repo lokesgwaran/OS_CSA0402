@@ -1,0 +1,14 @@
+EXPERIMENT 21: Worst Fit Memory Allocation
+================================================
+SAMPLE TERMINAL OUTPUT
+
+Memory blocks: 100 500 200 300 600
+Processes: 212 417 112 426
+
+Process  Size  Block Allocated
+P1       212   5 (600)
+P2       417   2 (500)
+P3       112   4 (300)
+P4       426   Not Allocated
+
+Note: This is an illustrative sample output. Actual output can vary with the input values and program implementation.
