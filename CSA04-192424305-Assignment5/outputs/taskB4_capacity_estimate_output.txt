@@ -1,0 +1,6 @@
+total_users: 150000
+window_seconds: 7200
+avg_arrival_rate_users_per_sec: 20.83
+estimated_peak_rps: 260.42
+raw_replicas: 6
+recommended_replicas_with_safety_margin: 8
