@@ -1,0 +1,12 @@
+=== Task 2.9/2.10 C Allocation Simulation (gcc -std=c11 -Wall -Wextra) ===
+After A, B, C, D        : AAAAAABBBBBBBBCCCCCDDDDDDDD.....
+After freeing B and D   : AAAAAA........CCCCC.............
+E (10 blocks) contiguous: start 19
+E (10 blocks) indexed   : index block 6, data blocks 7 8 9 10 11 12 13 29 30 31
+After Indexed E         : AAAAAAIEEEEEEECCCCCEEEEEEEEEEEEE
+
+=== Task 2.6–2.11 Storage & Inode Calculations ===
+4 GiB File Blocks (4 KiB/block): 1,048,576
+Max Inode Addressable Blocks   : 1,074,791,436 (4.004 TiB)
+4 TiB Free-Space Bitmap Size   : 128 MiB
+4 TiB In-Memory FAT Size       : 4 GiB

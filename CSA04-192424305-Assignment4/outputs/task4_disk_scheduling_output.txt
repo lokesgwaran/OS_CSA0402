@@ -1,0 +1,11 @@
+=== Task 4.2–4.6 C Disk Scheduling Algorithms ===
+FCFS  : 53 -> 98 -> 183 -> 37 -> 122 -> 14 -> 124 -> 65 -> 67 | Total Movement: 640 cylinders
+SSTF  : 53 -> 65 -> 67 -> 37 -> 14 -> 98 -> 122 -> 124 -> 183 | Total Movement: 236 cylinders
+SCAN  : 53 -> 37 -> 14 -> 0 -> 65 -> 67 -> 98 -> 122 -> 124 -> 183 | Total Movement: 236 cylinders
+LOOK  : 53 -> 37 -> 14 -> 65 -> 67 -> 98 -> 122 -> 124 -> 183 | Total Movement: 208 cylinders
+
+=== Task 4.9 10,000-Request Workload Simulation ===
+10,000-Request Simulation (Seed=42, Head=53, Cylinders=0..199):
+  FCFS Total Head Movement: 663,145 cylinders
+  SCAN Total Head Movement: 252 cylinders
+  LOOK Total Head Movement: 252 cylinders
