@@ -1,0 +1,8 @@
+=== Q4.5 page_touch Output ===
+Touched 64 MB; page size 4096 bytes
+
+=== Q4.2 Effective Access Time ===
+p = 1/1,000     -> EAT =  8099.9000 ns (81.00x slowdown)
+p = 1/100,000   -> EAT =   179.9990 ns (1.80x slowdown)
+p = 1/1,000,000 -> EAT =   107.9999 ns (1.08x slowdown)
+Max fault rate p for <=10% slowdown (EAT <= 110 ns): 1.25e-06 (~1 fault per 799,990 accesses)

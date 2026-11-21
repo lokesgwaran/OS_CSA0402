@@ -1,0 +1,9 @@
+=== Q3.1 Segment Translation Output (8 Test Pairs) ===
+(0,20) -> physical 1020
+(1,599) -> physical 3599
+(2,200) -> segmentation fault/protection fault
+(1,120) -> physical 3120
+(0,399) -> physical 1399
+(0,400) -> segmentation fault/protection fault
+(2,0) -> physical 5000
+(3,10) -> segmentation fault/protection fault

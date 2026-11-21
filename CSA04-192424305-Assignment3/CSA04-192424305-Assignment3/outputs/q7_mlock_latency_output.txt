@@ -1,0 +1,3 @@
+=== Q7.3 Real-Time Memory-Locking Latency Test ===
+mode=unlocked worst_observed_loop_access=23863 ns
+mode=locked worst_observed_loop_access=23014 ns
